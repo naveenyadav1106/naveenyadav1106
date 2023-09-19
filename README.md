@@ -5,9 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React and Next js**
-
 - 💬 Ask me about **MERN, Android**
-
 - 📫 How to reach me **naveenkumaryadav779@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
