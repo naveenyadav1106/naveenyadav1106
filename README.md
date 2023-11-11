@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Frontend Developer</h3>
 <br>
 
-- 🌱 I’m currently learning **React and Next js **
+- 🌱 I’m currently Practising **React Native**
 
 - 💬 Ask me about **MERN,Andriod**
 
