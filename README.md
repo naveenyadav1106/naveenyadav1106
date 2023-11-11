@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif) 
 <h1 align="center">Hi 👋, I'm Naveen Yadav</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Web And Mobile App Developer</h3>
 <br>
 
 - 🌱 I’m currently Practising **React Native**
