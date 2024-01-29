@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Web And Mobile App Developer</h3>
 <br>
 
-- **Check My Portfolio Here:**<a href="https://naveen-yadav-portfolio.netlify.app" target="_blank"></a>
+- **Check My Portfolio Here:** <div><a href="https://naveen-yadav-portfolio.netlify.app" target="_blank"></a></div>
 
 - 💬 Ask me about **MERN,Andriod**
 
