@@ -5,7 +5,7 @@
 
 - **Check My Portfolio Here:** [Portfolio](https://naveen-yadav-portfolio.netlify.app)
  
-- 💬 Ask me about **MERN,Andriod**
+- 💬 Ask me about **MERN and React Native Apps**
 
 - 📫 How to reach me **naveenkumaryadav779@gmail.com**
 <br>
